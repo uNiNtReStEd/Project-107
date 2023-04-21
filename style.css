@@ -1,0 +1,11 @@
+body{
+    font-family: "Caveat", sans-serif;
+    font-size:30px;
+    background-color: burlywood;
+}
+
+.header_div
+{
+    background-color:coral;
+    color:cornsilk;
+}
